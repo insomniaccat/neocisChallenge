@@ -1,0 +1,11 @@
+﻿  Moc'ing widget.h...
+  Generate moc_predefs.h
+  Uic'ing widget.ui...
+  moc_widget.cpp
+  main.cpp
+  widget.cpp
+widget.cpp(19): warning C4100: 'event': unreferenced formal parameter
+widget.cpp(51): warning C4100: 'event': unreferenced formal parameter
+widget.cpp(72): warning C4100: 'event': unreferenced formal parameter
+widget.cpp(132): error C2146: syntax error: missing ';' before identifier 'QRect'
+  Generating Code...
